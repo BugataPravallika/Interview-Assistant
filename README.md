@@ -2,7 +2,7 @@
 
 A polished AI-powered interview practice experience that helps candidates rehearse real conversations with voice interaction, intelligent follow-up questions, and instant feedback.
 
-![Interview Assistant UI](https://images.unsplash.com/photo-1516321497487-e288fb19713f?auto=format&fit=crop&w=1200&q=80)
+![Interview Assistant UI](interface.png)
 
 ## ✨ Overview
 
@@ -127,5 +127,4 @@ This project is ideal for:
 ## 👩‍💻 Developer
 
 Built by Pravallika Bugata
-
-If you’d like, I can also help you add a more professional screenshot section, badges, and a demo GIF to make the README even more impressive.
+gmail:pravallikabugata@gmail.com
